@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=DARKMOON
+Comment=DARKMOON P2P Cryptocurrency
+Comment[fr]=DARKMOON, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=DARKMOON, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/DARKMOON-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/DARKMOON;
+Categories=Office;

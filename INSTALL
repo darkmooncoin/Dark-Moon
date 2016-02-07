@@ -1,0 +1,9 @@
+Building DARKMOON
+
+See doc/readme-qt.rst for instructions on building DARKMOON QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of DARKMOON.
+
+See doc/build-*.txt for instructions on building darkmoond,
+the intended-for-services, no-graphical-interface, reference
+implementation of DARKMOON.
